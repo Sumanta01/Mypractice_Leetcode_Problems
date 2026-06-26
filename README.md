@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Sumanta01/Mypractice_Leetcode_Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Sumanta01/Mypractice_Leetcode_Problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Sumanta01/Mypractice_Leetcode_Problems/tree/main/0020-valid-parentheses/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,4 +26,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Sumanta01/Mypractice_Leetcode_Problems/tree/main/0014-longest-common-prefix/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Sumanta01/Mypractice_Leetcode_Problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
