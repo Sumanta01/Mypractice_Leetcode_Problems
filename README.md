@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Sumanta01/Mypractice_Leetcode_Problems/tree/main/0013-roman-to-integer/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Sumanta01/Mypractice_Leetcode_Problems/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Sumanta01/Mypractice_Leetcode_Problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Sumanta01/Mypractice_Leetcode_Problems/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
