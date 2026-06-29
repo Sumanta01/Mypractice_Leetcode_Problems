@@ -7,8 +7,3 @@ class Solution:
                     res.append((i,j))
 
         return len(res)
-
-
-        
-
-        return len(res)
