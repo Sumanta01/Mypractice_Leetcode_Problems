@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Sumanta01/Mypractice_Leetcode_Problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Sumanta01/Mypractice_Leetcode_Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Sumanta01/Mypractice_Leetcode_Problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0917-reverse-only-letters](https://github.com/Sumanta01/Mypractice_Leetcode_Problems/tree/main/0917-reverse-only-letters/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Sumanta01/Mypractice_Leetcode_Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0917-reverse-only-letters](https://github.com/Sumanta01/Mypractice_Leetcode_Problems/tree/main/0917-reverse-only-letters/) | Easy |
 <!---LeetCode Topics End-->
